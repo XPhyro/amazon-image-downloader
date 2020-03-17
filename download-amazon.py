@@ -2,7 +2,6 @@
 # Downloads all images of a product on Amazon
 
 import json
-# import requests
 import os
 
 source = input("Enter the name of the file that the page source is in.\n> ")
